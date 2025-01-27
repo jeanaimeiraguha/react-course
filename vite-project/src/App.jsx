@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './header';
 
-const app=()=>{
+const App=()=>{
   return(
     <>
     
@@ -9,3 +9,4 @@ const app=()=>{
     </>
   )
 }
+export default App;
